@@ -44,15 +44,7 @@ This project is designed using **OrCAD/Allegro v17.4** for schematic and PCB des
 
 - [Microcontroller Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
 
-## Contact
 
-For any questions or additional support, feel free to reach out:
-
-- **Name**: Mai Xuan Canh
-- **University**: Ho Chi Minh City University of Technology (HCMUT)
-- **Major**: Control and Automation Engineering
-- **LinkedIn**: [Canh Mai's LinkedIn](https://www.linkedin.com/in/maixuancanh2003/)
-- **Email**: canhmai.work@gmail.com
 
 ---
 
