@@ -1,6 +1,6 @@
 # CNC Machine Develop Board
 
-This project, developed by **Huynh Van Thong**, involves creating a CNC Machine control board using OrCAD/Allegro v17.4 for educational and research purposes at Ho Chi Minh City University of Technology.
+This project involves creating a CNC Machine control board using OrCAD/Allegro v17.4 for educational and research purposes at Ho Chi Minh City University of Technology.
 
 ## Introduction
 
