@@ -22,30 +22,6 @@ Here are images of the board from different perspectives:
 | **PCB**   | ![Bottom View](Image/PCB.jpg)          |
 | **Result**   | ![Bottom View](Image/Result.png)          |
 
-
-
-## Key Components
-
-1. **Microcontroller**: Processes control commands and interacts with other components of the CNC system.
-2. **Drivers**: Integrates drivers to control stepper motors with high precision.
-3. **Power Supply**: Provides stable power for the entire system.
-
-## Usage Guide
-
-1. Connect the board to CNC machine components.
-2. Install CNC control software to interface with the board.
-3. Test and operate the board to ensure all functions are stable.
-
-## Software
-
-This project is designed using **OrCAD/Allegro v17.4** for schematic and PCB design. The software enables high-precision design and effective control over the CNC machine's functionalities.
-
-## References
-
-- [Microcontroller Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf)
-
-
-
 ---
 
 
